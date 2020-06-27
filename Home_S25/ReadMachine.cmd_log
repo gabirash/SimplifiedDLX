@@ -1,0 +1,1 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ReadMachine_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/ReadMachine.sch 

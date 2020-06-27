@@ -1,0 +1,5 @@
+vhdl isim_temp "REG32CE.vhd"
+vhdl isim_temp "ReadStateMac.vhd"
+vhdl isim_temp "cnt16to32.vhd"
+vhdl isim_temp "CNT16.vhd"
+vhdl isim_temp "ReadMachinetb.vhd"

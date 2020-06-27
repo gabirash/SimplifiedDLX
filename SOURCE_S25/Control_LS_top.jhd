@@ -1,0 +1,5 @@
+MODULE Control_LS_top
+	SUBMODULE MA_StateMac
+		INSTANCE XLXI_1
+	SUBMODULE Control_LS_stateMac
+		INSTANCE XLXI_2

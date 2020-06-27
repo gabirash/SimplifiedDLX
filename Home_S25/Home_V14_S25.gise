@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Home_V14_S25.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="AEQZ.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ALU_Envi.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="ALU_Envi.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="ALU_Envi_drc.vhf"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="AND32.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="BUF16.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="BUF3.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="BUF32.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="BUF5.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="BUF6.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="CNT16.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="CNT5.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="CSA32.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="CSA32.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="CSA32_drc.vhf"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Comparator32.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="Comparator32.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="Comparator32_drc.vhf"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Const_011.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="Const_011.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Const_011.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Const_011.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Const_011.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Control_LS_stateMac.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="Control_LS_stateMac.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Control_LS_stateMac.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Control_LS_stateMac.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Control_LS_stateMac.xst"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Control_LS_top.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="Control_LS_top.vhf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Control_LS_top_Control_LS_top_sch_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Control_LS_top_Control_LS_top_sch_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="Control_LS_top_drc.vhf"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DLXCntrlState.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="DLXCntrlState.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DLXCntrlState.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="DLXCntrlState.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DLXCntrlState.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="DLXCntrlState_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DLXCntrlState_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="DLXControlTop.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="DLXControlTop.vhf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="DLXControlTop_DLXControlTop_sch_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DLXControlTop_DLXControlTop_sch_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="DLXControlTop_drc.vhf"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="DLXDataPath.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="DLXDataPath.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="DLXDataPath_drc.vhf"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DLXS2Consts.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="DLXS2Consts.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DLXS2Consts.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="DLXS2Consts.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DLXS2Consts.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DLX_IRenvi.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="DLX_IRenvi.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DLX_IRenvi.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="DLX_IRenvi.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DLX_IRenvi.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DLX_MMU.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="DLX_MMU.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DLX_MMU.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="DLX_MMU.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DLX_MMU.xst"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="DLX_Top.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="DLX_Top.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="DLX_Top_drc.vhf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="DLX_ioSimul.vhf"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DLX_ioSimul_DLX_ioSimul_sch_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="DLX_ioSimul_DLX_ioSimul_sch_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="DLX_ioSimul_DLX_ioSimul_sch_tb_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DLX_ioSimul_DLX_ioSimul_sch_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="GPR_Env.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="GPR_Env.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="GPR_Env_drc.vhf"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="IDNUM32.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ID_NUM.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="IO_SIMUL.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="IO_SIMUL.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="IR_Envi.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="IR_Envi.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="IR_Envi.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="IR_Envi.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="IR_Envi.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="InsParser.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="InsParser.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="InsParser.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="InsParser.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="InsParser.xst"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="LA_control.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="LS_ioSimul.vhf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="LS_ioSimul_LS_ioSimul_sch_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="LS_ioSimul_LS_ioSimul_sch_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Load_Store_Machine.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="Load_Store_Machine.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="Load_Store_Machine_drc.vhf"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Load_Store_Machine_top.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="Load_Store_Machine_top.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="Load_Store_Machine_top_drc.vhf"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Logic_anaylzer.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MA_StateMac.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="MA_StateMac.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MA_StateMac.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="MA_StateMac.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MA_StateMac.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MMU.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="MMU.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MMU.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="MMU.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MMU.xst"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="MUX16bit.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX32bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX32bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MUX32bit.xst"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="MUX3BIT.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="MUX4_32bit.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="MUX5BIT.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Monitor_slave.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="OR32.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="PC_Env.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="PC_Env.vhf"/>
+    <file xil_pn:fileType="FILE_VHDL" xil_pn:name="PC_Env_drc.vhf"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="RAM32X32S.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="REG32CE.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="REG32RST.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="REG5CE.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ReadMachine_ReadMachine_sch_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ReadStateMac.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="ReadStateMac.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ReadStateMac.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ReadStateMac.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ReadStateMac.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SHIFTEnvi.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="SHIFTEnvi.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SHIFTEnvi.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="SHIFTEnvi.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SHIFTEnvi.xst"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="SRAM.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Slave_control.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VHDL" xil_pn:name="WriteMachine.vhf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="WriteMachine_WriteMachine_sch_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="WriteMachine_WriteMachine_sch_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="WriteStateMac.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="XOR32.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="cnt16to32.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="compout1to32.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="compout1to32.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="compout1to32.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="compout1to32.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="compout1to32.xst"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1591082061" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1591082061">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1592927096" xil_pn:in_ck="-2857815596172364184" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1592927096">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="AEQZ.vhd"/>
+      <outfile xil_pn:name="AND32.VHD"/>
+      <outfile xil_pn:name="BUF16.vhd"/>
+      <outfile xil_pn:name="BUF3.vhd"/>
+      <outfile xil_pn:name="BUF32.vhd"/>
+      <outfile xil_pn:name="BUF5.vhd"/>
+      <outfile xil_pn:name="BUF6.vhd"/>
+      <outfile xil_pn:name="CNT16.vhd"/>
+      <outfile xil_pn:name="CNT5.vhd"/>
+      <outfile xil_pn:name="Const_011.vhd"/>
+      <outfile xil_pn:name="Control_LS_stateMac.vhd"/>
+      <outfile xil_pn:name="DLXCntrlState.vhd"/>
+      <outfile xil_pn:name="DLXControlTop_testb.vhd"/>
+      <outfile xil_pn:name="DLXS2Consts.vhd"/>
+      <outfile xil_pn:name="DLX_IRenvi.vhd"/>
+      <outfile xil_pn:name="DLX_MMU.vhd"/>
+      <outfile xil_pn:name="DLX_ioSimul_t.vhd"/>
+      <outfile xil_pn:name="IDNUM32.vhd"/>
+      <outfile xil_pn:name="ID_NUM.vhd"/>
+      <outfile xil_pn:name="IO_SIMUL.VHD"/>
+      <outfile xil_pn:name="IR_Envi.vhd"/>
+      <outfile xil_pn:name="InsParser.vhd"/>
+      <outfile xil_pn:name="LS_IOsimul_t.vhd"/>
+      <outfile xil_pn:name="MA_StateMac.vhd"/>
+      <outfile xil_pn:name="MMU.vhd"/>
+      <outfile xil_pn:name="MUX16bit.vhd"/>
+      <outfile xil_pn:name="MUX32bit.vhd"/>
+      <outfile xil_pn:name="MUX3BIT.vhd"/>
+      <outfile xil_pn:name="MUX4_32bit.vhd"/>
+      <outfile xil_pn:name="MUX5BIT.vhd"/>
+      <outfile xil_pn:name="Monitor_tb.vhd"/>
+      <outfile xil_pn:name="OR32.VHD"/>
+      <outfile xil_pn:name="RAM32X32S.vhd"/>
+      <outfile xil_pn:name="REG32CE.vhd"/>
+      <outfile xil_pn:name="REG32RST.vhd"/>
+      <outfile xil_pn:name="REG5CE.vhd"/>
+      <outfile xil_pn:name="ReadMachinetb.vhd"/>
+      <outfile xil_pn:name="ReadStateMac.vhd"/>
+      <outfile xil_pn:name="SHIFTEnvi.vhd"/>
+      <outfile xil_pn:name="SIMUL_T.vhd"/>
+      <outfile xil_pn:name="SRAM.VHD"/>
+      <outfile xil_pn:name="WriteMachinetb.vhd"/>
+      <outfile xil_pn:name="WriteStateMac.vhd"/>
+      <outfile xil_pn:name="XOR32.vhd"/>
+      <outfile xil_pn:name="cnt16to32.vhd"/>
+      <outfile xil_pn:name="compout1to32.vhd"/>
+      <outfile xil_pn:name="control_t.vhd"/>
+      <outfile xil_pn:name="slave_tb.vhd"/>
+      <outfile xil_pn:name="sram_data.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1592902380" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-3610052874437852794" xil_pn:start_ts="1592902380">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1592927153" xil_pn:in_ck="-4292579317260609201" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="5475711865825567236" xil_pn:start_ts="1592927147">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALU_Envi.vhf"/>
+      <outfile xil_pn:name="CSA32.vhf"/>
+      <outfile xil_pn:name="Comparator32.vhf"/>
+      <outfile xil_pn:name="Control_LS_top.vhf"/>
+      <outfile xil_pn:name="DLXControlTop.vhf"/>
+      <outfile xil_pn:name="DLXDataPath.vhf"/>
+      <outfile xil_pn:name="DLX_Top.vhf"/>
+      <outfile xil_pn:name="DLX_ioSimul.vhf"/>
+      <outfile xil_pn:name="GPR_Env.vhf"/>
+      <outfile xil_pn:name="LS_ioSimul.vhf"/>
+      <outfile xil_pn:name="Load_Store_Machine.vhf"/>
+      <outfile xil_pn:name="Load_Store_Machine_top.vhf"/>
+      <outfile xil_pn:name="PC_Env.vhf"/>
+      <outfile xil_pn:name="WriteMachine.vhf"/>
+    </transform>
+    <transform xil_pn:end_ts="1591082115" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="3788025651301429001" xil_pn:start_ts="1591082115">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1592927153" xil_pn:in_ck="-834313450324894227" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1592927153">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="AEQZ.vhd"/>
+      <outfile xil_pn:name="ALU_Envi.vhf"/>
+      <outfile xil_pn:name="AND32.VHD"/>
+      <outfile xil_pn:name="BUF16.vhd"/>
+      <outfile xil_pn:name="BUF3.vhd"/>
+      <outfile xil_pn:name="BUF32.vhd"/>
+      <outfile xil_pn:name="BUF5.vhd"/>
+      <outfile xil_pn:name="BUF6.vhd"/>
+      <outfile xil_pn:name="CNT16.vhd"/>
+      <outfile xil_pn:name="CNT5.vhd"/>
+      <outfile xil_pn:name="CSA32.vhf"/>
+      <outfile xil_pn:name="Comparator32.vhf"/>
+      <outfile xil_pn:name="Const_011.vhd"/>
+      <outfile xil_pn:name="Control_LS_stateMac.vhd"/>
+      <outfile xil_pn:name="Control_LS_top.vhf"/>
+      <outfile xil_pn:name="DLXCntrlState.vhd"/>
+      <outfile xil_pn:name="DLXControlTop.vhf"/>
+      <outfile xil_pn:name="DLXControlTop_testb.vhd"/>
+      <outfile xil_pn:name="DLXDataPath.vhf"/>
+      <outfile xil_pn:name="DLXS2Consts.vhd"/>
+      <outfile xil_pn:name="DLX_IRenvi.vhd"/>
+      <outfile xil_pn:name="DLX_MMU.vhd"/>
+      <outfile xil_pn:name="DLX_Top.vhf"/>
+      <outfile xil_pn:name="DLX_ioSimul.vhf"/>
+      <outfile xil_pn:name="DLX_ioSimul_t.vhd"/>
+      <outfile xil_pn:name="GPR_Env.vhf"/>
+      <outfile xil_pn:name="IDNUM32.vhd"/>
+      <outfile xil_pn:name="ID_NUM.vhd"/>
+      <outfile xil_pn:name="IO_SIMUL.VHD"/>
+      <outfile xil_pn:name="IR_Envi.vhd"/>
+      <outfile xil_pn:name="InsParser.vhd"/>
+      <outfile xil_pn:name="LS_IOsimul_t.vhd"/>
+      <outfile xil_pn:name="LS_ioSimul.vhf"/>
+      <outfile xil_pn:name="Load_Store_Machine.vhf"/>
+      <outfile xil_pn:name="Load_Store_Machine_top.vhf"/>
+      <outfile xil_pn:name="MA_StateMac.vhd"/>
+      <outfile xil_pn:name="MMU.vhd"/>
+      <outfile xil_pn:name="MUX16bit.vhd"/>
+      <outfile xil_pn:name="MUX32bit.vhd"/>
+      <outfile xil_pn:name="MUX3BIT.vhd"/>
+      <outfile xil_pn:name="MUX4_32bit.vhd"/>
+      <outfile xil_pn:name="MUX5BIT.vhd"/>
+      <outfile xil_pn:name="Monitor_tb.vhd"/>
+      <outfile xil_pn:name="OR32.VHD"/>
+      <outfile xil_pn:name="PC_Env.vhf"/>
+      <outfile xil_pn:name="RAM32X32S.vhd"/>
+      <outfile xil_pn:name="REG32CE.vhd"/>
+      <outfile xil_pn:name="REG32RST.vhd"/>
+      <outfile xil_pn:name="REG5CE.vhd"/>
+      <outfile xil_pn:name="ReadMachinetb.vhd"/>
+      <outfile xil_pn:name="ReadStateMac.vhd"/>
+      <outfile xil_pn:name="SHIFTEnvi.vhd"/>
+      <outfile xil_pn:name="SIMUL_T.vhd"/>
+      <outfile xil_pn:name="SRAM.VHD"/>
+      <outfile xil_pn:name="WriteMachine.vhf"/>
+      <outfile xil_pn:name="WriteMachinetb.vhd"/>
+      <outfile xil_pn:name="WriteStateMac.vhd"/>
+      <outfile xil_pn:name="XOR32.vhd"/>
+      <outfile xil_pn:name="cnt16to32.vhd"/>
+      <outfile xil_pn:name="compout1to32.vhd"/>
+      <outfile xil_pn:name="control_t.vhd"/>
+      <outfile xil_pn:name="slave_tb.vhd"/>
+      <outfile xil_pn:name="sram_data.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1592927169" xil_pn:in_ck="-834313450324894227" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="6458763873445116735" xil_pn:start_ts="1592927153">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="DLX_ioSimul_DLX_ioSimul_sch_tb_beh.prj"/>
+      <outfile xil_pn:name="DLX_ioSimul_DLX_ioSimul_sch_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1592927170" xil_pn:in_ck="-9069490626077198777" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="4037188599395747596" xil_pn:start_ts="1592927169">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="DLX_ioSimul_DLX_ioSimul_sch_tb_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+  </transforms>
+
+</generated_project>

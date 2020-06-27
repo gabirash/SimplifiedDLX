@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ALU_Envi_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/ALU_Envi.sch 
+sch2sym -intstyle ise -family spartan6 -refsym ALU_Envi C:/Users/gabon/Desktop/Home_S25/ALU_Envi.sch C:/Users/gabon/Desktop/Home_S25/ALU_Envi.sym 

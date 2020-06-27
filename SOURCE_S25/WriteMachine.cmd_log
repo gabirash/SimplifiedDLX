@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl WriteMachine_drc.vhf -w E:/adlx/C2/SOURCE_S25/WriteMachine.sch 
+sch2sym -intstyle ise -family spartan6 -refsym WriteMachine E:/adlx/C2/SOURCE_S25/WriteMachine.sch E:/adlx/C2/SOURCE_S25/WriteMachine.sym 

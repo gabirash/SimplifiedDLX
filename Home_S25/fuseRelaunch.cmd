@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/gabon/Desktop/updated/Home_S25/DLX_ioSimul_DLX_ioSimul_sch_tb_isim_beh.exe" -prj "C:/Users/gabon/Desktop/updated/Home_S25/DLX_ioSimul_DLX_ioSimul_sch_tb_beh.prj" "work.DLX_ioSimul_DLX_ioSimul_sch_tb" 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/ACSL_projects/Home_S25/Monitor_Monitor_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="monitor_monitor_sch_tb" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="vcomponents" />
+            <top_module name="vital_primitives" />
+            <top_module name="vital_timing" />
+            <top_module name="vpkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/monitor_monitor_sch_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/ai" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ai[9:0]</obj_property>
+      <obj_property name="ObjectShortName">ai[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/cardsel" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cardsel</obj_property>
+      <obj_property name="ObjectShortName">cardsel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/wr_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wr_n</obj_property>
+      <obj_property name="ObjectShortName">wr_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/c" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">c[31:0]</obj_property>
+      <obj_property name="ObjectShortName">c[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/monitored" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">monitored[31:0]</obj_property>
+      <obj_property name="ObjectShortName">monitored[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/d" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">d[31:0]</obj_property>
+      <obj_property name="ObjectShortName">d[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/sdo" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sdo[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sdo[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/reg_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">reg_addr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_addr[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/sack_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sack_n</obj_property>
+      <obj_property name="ObjectShortName">sack_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/step_en" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">step_en</obj_property>
+      <obj_property name="ObjectShortName">step_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/in_init" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">in_init</obj_property>
+      <obj_property name="ObjectShortName">in_init</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/stop_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">stop_n</obj_property>
+      <obj_property name="ObjectShortName">stop_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/UUT/XLXI_1/XLXI_5/la_we" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">la_we</obj_property>
+      <obj_property name="ObjectShortName">la_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/UUT/XLXI_1/XLXI_5/sts_ce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sts_ce</obj_property>
+      <obj_property name="ObjectShortName">sts_ce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/UUT/XLXI_1/XLXI_5/la_run" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">la_run</obj_property>
+      <obj_property name="ObjectShortName">la_run</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/UUT/XLXI_1/XLXI_3/cnt_o" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cnt_o[4:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt_o[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monitor_monitor_sch_tb/UUT/XLXI_1/status" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">status[4:0]</obj_property>
+      <obj_property name="ObjectShortName">status[4:0]</obj_property>
+   </wvobject>
+</wave_config>

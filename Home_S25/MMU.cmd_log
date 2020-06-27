@@ -1,0 +1,4 @@
+vhdtdtfi -lib work MMU.vhd -prj Home_V14_S25 -o MMU.spl -module MMU -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 MMU.spl C:/Users/gabon/Desktop/Home_S25/MMU.sym 
+vhdtdtfi -lib work MMU.vhd -prj Home_V14_S25 -o MMU.spl -module MMU -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 MMU.spl C:/Users/gabon/Desktop/Home_S25/MMU.sym 

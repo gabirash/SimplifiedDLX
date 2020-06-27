@@ -1,0 +1,8 @@
+[Inputs]
+CLK
+WE
+=D[31:0]=
+=ADD[4:0]=
+[Outputs]
+=DO[31:0]=
+[BiDir]

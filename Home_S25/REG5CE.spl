@@ -1,0 +1,7 @@
+[Inputs]
+clk
+CE
+=DIN[4:0]=
+[Outputs]
+=DOUT[4:0]=
+[BiDir]

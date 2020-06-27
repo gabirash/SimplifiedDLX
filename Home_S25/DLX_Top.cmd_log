@@ -1,0 +1,6 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLX_Top_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLX_Top.sch 
+sch2sym -intstyle ise -family spartan6 -refsym DLX_Top C:/Users/gabon/Desktop/updated/Home_S25/DLX_Top.sch C:/Users/gabon/Desktop/updated/Home_S25/DLX_Top.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLX_Top_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLX_Top.sch 
+sch2sym -intstyle ise -family spartan6 -refsym DLX_Top C:/Users/gabon/Desktop/updated/Home_S25/DLX_Top.sch C:/Users/gabon/Desktop/updated/Home_S25/DLX_Top.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLX_Top_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLX_Top.sch 
+sch2sym -intstyle ise -family spartan6 -refsym DLX_Top C:/Users/gabon/Desktop/updated/Home_S25/DLX_Top.sch C:/Users/gabon/Desktop/updated/Home_S25/DLX_Top.sym 

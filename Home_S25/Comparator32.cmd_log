@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Comparator32_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/Comparator32.sch 
+sch2sym -intstyle ise -family spartan6 -refsym Comparator32 C:/Users/gabon/Desktop/Home_S25/Comparator32.sch C:/Users/gabon/Desktop/Home_S25/Comparator32.sym 

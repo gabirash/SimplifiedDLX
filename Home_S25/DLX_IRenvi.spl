@@ -1,0 +1,8 @@
+[Inputs]
+clk
+IRce
+=D_in[31:0]=
+[Outputs]
+=IR_OUT[31:0]=
+=sext_imm[31:0]=
+[BiDir]

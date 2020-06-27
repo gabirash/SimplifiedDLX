@@ -1,0 +1,12 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLXDataPath_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLXDataPath_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLXDataPath_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch 
+sch2sym -intstyle ise -family spartan6 -refsym DLXDataPath C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLXDataPath_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch 
+sch2sym -intstyle ise -family spartan6 -refsym DLXDataPath C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLXDataPath_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch 
+sch2sym -intstyle ise -family spartan6 -refsym DLXDataPath C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLXDataPath_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch 
+sch2sym -intstyle ise -family spartan6 -refsym DLXDataPath C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLXDataPath_drc.vhf -w C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch 
+sch2sym -intstyle ise -family spartan6 -refsym DLXDataPath C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sch C:/Users/gabon/Desktop/updated/Home_S25/DLXDataPath.sym 

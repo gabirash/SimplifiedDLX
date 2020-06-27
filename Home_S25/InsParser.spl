@@ -1,0 +1,10 @@
+[Inputs]
+Itype
+Jlink
+=inst[31:0]=
+[Outputs]
+=Aadr[4:0]=
+=Badr[4:0]=
+=Cadr[4:0]=
+=ALUF[2:0]=
+[BiDir]

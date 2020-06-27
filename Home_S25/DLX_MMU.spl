@@ -1,0 +1,5 @@
+[Inputs]
+=AO[31:0]=
+[Outputs]
+=MAO[31:0]=
+[BiDir]

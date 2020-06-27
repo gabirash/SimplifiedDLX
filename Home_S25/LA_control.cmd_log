@@ -1,0 +1,8 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl LA_control_drc.vhf -w E:/adlx/C2/Home_S25/LA_control.sch 
+sch2sym -intstyle ise -family spartan6 -refsym LA_control E:/adlx/C2/Home_S25/LA_control.sch E:/adlx/C2/Home_S25/LA_control.sym 
+sch2sym -intstyle ise -family spartan6 -refsym LA_control E:/adlx/C2/Home_S25/LA_control.sch E:/adlx/C2/Home_S25/LA_control.sym 
+sch2sym -intstyle ise -family spartan6 -refsym LA_control E:/adlx/C2/Home_S25/LA_control.sch E:/adlx/C2/Home_S25/LA_control.sym 
+sch2sym -intstyle ise -family spartan6 -refsym LA_control E:/adlx/C2/Home_S25/LA_control.sch E:/adlx/C2/Home_S25/LA_control.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl LA_control_drc.vhf -w E:/adlx/C2/Home_S25/LA_control.sch 
+sch2sym -intstyle ise -family spartan6 -refsym LA_control E:/adlx/C2/Home_S25/LA_control.sch E:/adlx/C2/Home_S25/LA_control.sym 
+sch2sym -intstyle ise -family spartan6 -refsym LA_control E:/adlx/C2/Home_S25/LA_control.sch E:/adlx/C2/Home_S25/LA_control.sym 

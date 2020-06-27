@@ -1,0 +1,7 @@
+[Inputs]
+clk
+ce
+reset
+[Outputs]
+=cnt_o[4:0]=
+[BiDir]

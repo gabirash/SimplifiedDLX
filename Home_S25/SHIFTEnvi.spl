@@ -1,0 +1,7 @@
+[Inputs]
+shift
+right
+=di[31:0]=
+[Outputs]
+=do[31:0]=
+[BiDir]

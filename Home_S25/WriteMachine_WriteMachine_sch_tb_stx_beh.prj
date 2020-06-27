@@ -1,0 +1,6 @@
+vhdl isim_temp "WriteStateMac.vhd"
+vhdl isim_temp "IDNUM32.vhd"
+vhdl isim_temp "cnt16to32.vhd"
+vhdl isim_temp "CNT16.vhd"
+vhdl isim_temp "WriteMachine.vhf"
+vhdl isim_temp "WriteMachinetb.vhd"

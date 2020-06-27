@@ -1,0 +1,4 @@
+vhdl isim_temp "MA_StateMac.vhd"
+vhdl isim_temp "Control_LS_stateMac.vhd"
+vhdl isim_temp "Control_LS_top.vhf"
+vhdl isim_temp "control_t.vhd"

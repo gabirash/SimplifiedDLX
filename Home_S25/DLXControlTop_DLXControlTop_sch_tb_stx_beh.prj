@@ -1,0 +1,4 @@
+vhdl isim_temp "MA_StateMac.vhd"
+vhdl isim_temp "DLXCntrlState.vhd"
+vhdl isim_temp "DLXControlTop.vhf"
+vhdl isim_temp "DLXControlTop_testb.vhd"

@@ -1,0 +1,29 @@
+Command line:
+   ReadMachine_ReadMachine_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  53893
+
+Tue May 26 18:41:05 2020
+
+
+ Elaboration Time: 0.046801 sec
+
+ Current Memory Usage: 1145.87 Meg
+
+ Total Signals          : 76
+ Total Nets             : 168
+ Total Signal Drivers   : 18
+ Total Blocks           : 12
+ Total Primitive Blocks : 10
+ Total Processes        : 15
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 678
+Total Line Count : 60
+
+ Total Simulation Time: 0.046801 sec
+
+ Current Memory Usage: 1145.87 Meg
+
+Tue May 26 18:41:12 2020
+

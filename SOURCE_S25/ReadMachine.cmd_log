@@ -1,0 +1,9 @@
+sch2sym -intstyle ise -family spartan6 -refsym ReadMachine E:/adlx/C2/SOURCE_S25/ReadMachine.sch E:/adlx/C2/SOURCE_S25/ReadMachine.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ReadMachine_drc.vhf -w E:/adlx/C2/SOURCE_S25/ReadMachine.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ReadMachine_drc.vhf -w E:/adlx/C2/SOURCE_S25/ReadMachine.sch 
+sch2sym -intstyle ise -family spartan6 -refsym ReadMachine E:/adlx/C2/SOURCE_S25/ReadMachine.sch E:/adlx/C2/SOURCE_S25/ReadMachine.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ReadMachine_drc.vhf -w E:/adlx/C2/SOURCE_S25/ReadMachine.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ReadMachine_drc.vhf -w E:/adlx/C2/SOURCE_S25/ReadMachine.sch 
+sch2sym -intstyle ise -family spartan6 -refsym ReadMachine E:/adlx/C2/SOURCE_S25/ReadMachine.sch E:/adlx/C2/SOURCE_S25/ReadMachine.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ReadMachine_drc.vhf -w E:/adlx/C2/SOURCE_S25/ReadMachine.sch 
+sch2sym -intstyle ise -family spartan6 -refsym ReadMachine E:/adlx/C2/SOURCE_S25/ReadMachine.sch E:/adlx/C2/SOURCE_S25/ReadMachine.sym 

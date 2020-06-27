@@ -1,0 +1,2 @@
+vhdtdtfi -lib work DLXS2Consts.vhd -prj Home_V14_S25 -o DLXS2Consts.spl -module DLXS2Consts -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 DLXS2Consts.spl C:/Users/gabon/Desktop/updated/Home_S25/DLXS2Consts.sym 

@@ -1,0 +1,13 @@
+[Inputs]
+clk
+reset
+mw
+mr
+ack_n
+[Outputs]
+AS_N
+WR_N
+stop_n
+busy
+=state_o[1:0]=
+[BiDir]

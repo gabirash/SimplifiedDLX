@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Control_LS_top_drc.vhf -w C:/Users/oz/Desktop/Home_S25/Control_LS_top.sch 
+sch2sym -intstyle ise -family spartan6 -refsym Control_LS_top C:/Users/oz/Desktop/Home_S25/Control_LS_top.sch C:/Users/oz/Desktop/Home_S25/Control_LS_top.sym 

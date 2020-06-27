@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/ACSL_projects/Home_S25/LS_ioSimul_LS_ioSimul_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="ls_iosimul_ls_iosimul_sch_tb" />
+            <top_module name="numeric_std" />
+            <top_module name="sram_data" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="vcomponents" />
+            <top_module name="vital_primitives" />
+            <top_module name="vital_timing" />
+            <top_module name="vpkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="31" />
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/mao" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mao[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mao[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/d_in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">d_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">d_in[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/statels" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">statels[2:0]</obj_property>
+      <obj_property name="ObjectShortName">statels[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/statemac" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">statemac[1:0]</obj_property>
+      <obj_property name="ObjectShortName">statemac[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/XLXI_2/XLXI_3/inst" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inst[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/XLXI_2/c" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">c[31:0]</obj_property>
+      <obj_property name="ObjectShortName">c[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/XLXI_2/pc_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pc_reg[15:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_reg[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/XLXI_2/b" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">b[31:0]</obj_property>
+      <obj_property name="ObjectShortName">b[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/XLXI_2/imm" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">imm[15:0]</obj_property>
+      <obj_property name="ObjectShortName">imm[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/d_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">d_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">d_out[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/XLXI_2/badr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">badr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">badr[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/XLXI_2/cadr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cadr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">cadr[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/XLXI_2/mux_o" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mux_o[15:0]</obj_property>
+      <obj_property name="ObjectShortName">mux_o[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/cce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cce</obj_property>
+      <obj_property name="ObjectShortName">cce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/bce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">bce</obj_property>
+      <obj_property name="ObjectShortName">bce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/gpr_we" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">gpr_we</obj_property>
+      <obj_property name="ObjectShortName">gpr_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/irce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">irce</obj_property>
+      <obj_property name="ObjectShortName">irce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/admse" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">admse</obj_property>
+      <obj_property name="ObjectShortName">admse</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/pcce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pcce</obj_property>
+      <obj_property name="ObjectShortName">pcce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/ack_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ack_n</obj_property>
+      <obj_property name="ObjectShortName">ack_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/busy" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">busy</obj_property>
+      <obj_property name="ObjectShortName">busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/mr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mr</obj_property>
+      <obj_property name="ObjectShortName">mr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/mw" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mw</obj_property>
+      <obj_property name="ObjectShortName">mw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/stop_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">stop_n</obj_property>
+      <obj_property name="ObjectShortName">stop_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/step_en" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">step_en</obj_property>
+      <obj_property name="ObjectShortName">step_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/as_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">as_n</obj_property>
+      <obj_property name="ObjectShortName">as_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/in_init" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">in_init</obj_property>
+      <obj_property name="ObjectShortName">in_init</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/wr_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wr_n</obj_property>
+      <obj_property name="ObjectShortName">wr_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ls_iosimul_ls_iosimul_sch_tb/UUT/XLXI_1/opcode" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">opcode[5:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode[5:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

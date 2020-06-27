@@ -1,0 +1,7 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Load_Store_Machine_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Load_Store_Machine_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sch 
+sch2sym -intstyle ise -family spartan6 -refsym Load_Store_Machine C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sch C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Load_Store_Machine_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sch 
+sch2sym -intstyle ise -family spartan6 -refsym Load_Store_Machine C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sch C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Load_Store_Machine_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sch 
+sch2sym -intstyle ise -family spartan6 -refsym Load_Store_Machine C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sch C:/Users/gabon/Desktop/Home_S25/Load_Store_Machine.sym 

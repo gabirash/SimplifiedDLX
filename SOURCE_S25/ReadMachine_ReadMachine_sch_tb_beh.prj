@@ -1,0 +1,6 @@
+vhdl work "REG32CE.vhd"
+vhdl work "ReadStateMac.vhd"
+vhdl work "cnt16to32.vhd"
+vhdl work "CNT16.vhd"
+vhdl work "ReadMachine.vhf"
+vhdl work "ReadMachinetb.vhd"

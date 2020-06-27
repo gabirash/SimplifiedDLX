@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan6 -refsym Load_Store_Machine_top E:/adlx/C2/SOURCE_S25/Load_Store_Machine_top.sch E:/adlx/C2/SOURCE_S25/Load_Store_Machine_top.sym 
+sch2sym -intstyle ise -family spartan6 -refsym Load_Store_Machine_top E:/adlx/C2/SOURCE_S25/Load_Store_Machine_top.sch E:/adlx/C2/SOURCE_S25/Load_Store_Machine_top.sym 

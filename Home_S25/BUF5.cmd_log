@@ -1,0 +1,2 @@
+vhdtdtfi -lib work BUF5.vhd -prj Home_V14_S25 -o BUF5.spl -module BUF5 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 BUF5.spl E:/Lab_base/Home_V14_S25/BUF5.sym 

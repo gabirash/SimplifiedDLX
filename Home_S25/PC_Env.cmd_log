@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl PC_Env_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/PC_Env.sch 
+sch2sym -intstyle ise -family spartan6 -refsym PC_Env C:/Users/gabon/Desktop/Home_S25/PC_Env.sch C:/Users/gabon/Desktop/Home_S25/PC_Env.sym 

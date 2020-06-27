@@ -1,0 +1,2 @@
+vhdtdtfi -lib work REG5CE.vhd -prj Home_V14_S25 -o REG5CE.spl -module REG5CE -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 REG5CE.spl E:/adlx/C2/Home_S25/REG5CE.sym 

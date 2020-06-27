@@ -1,0 +1,12 @@
+[Inputs]
+step_en
+reset
+ACK_N
+clk
+[Outputs]
+AS_N
+in_init
+WR_N_out
+stop_n
+=state_out[1:0]=
+[BiDir]

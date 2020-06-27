@@ -1,0 +1,6 @@
+vhdtdtfi -lib work WriteStateMac.vhd -prj SOURCE_S25 -o WriteStateMac.spl -module WriteStateMac -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 WriteStateMac.spl E:/adlx/C2/SOURCE_S25/WriteStateMac.sym 
+vhdtdtfi -lib work WriteStateMac.vhd -prj SOURCE_S25 -o WriteStateMac.spl -module WriteStateMac -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 WriteStateMac.spl E:/adlx/C2/SOURCE_S25/WriteStateMac.sym 
+vhdtdtfi -lib work WriteStateMac.vhd -prj SOURCE_S25 -o WriteStateMac.spl -module WriteStateMac -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 WriteStateMac.spl E:/adlx/C2/SOURCE_S25/WriteStateMac.sym 

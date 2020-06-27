@@ -1,0 +1,7 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl CSA32_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/CSA32.sch 
+sch2sym -intstyle ise -family spartan6 -refsym CSA32 C:/Users/gabon/Desktop/Home_S25/CSA32.sch C:/Users/gabon/Desktop/Home_S25/CSA32.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl CSA32_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/CSA32.sch 
+sch2sym -intstyle ise -family spartan6 -refsym CSA32 C:/Users/gabon/Desktop/Home_S25/CSA32.sch C:/Users/gabon/Desktop/Home_S25/CSA32.sym 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl CSA32_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/CSA32.sch 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl CSA32_drc.vhf -w C:/Users/gabon/Desktop/Home_S25/CSA32.sch 
+sch2sym -intstyle ise -family spartan6 -refsym CSA32 C:/Users/gabon/Desktop/Home_S25/CSA32.sch C:/Users/gabon/Desktop/Home_S25/CSA32.sym 

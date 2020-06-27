@@ -1,0 +1,5 @@
+vhdl work "BUF5.vhd"
+vhdl work "Slave_control.vhf"
+vhdl work "MUX4_32bit.vhd"
+vhdl work "Monitor_slave.vhf"
+vhdl work "slave_tb.vhd"

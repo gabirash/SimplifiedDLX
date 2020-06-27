@@ -1,0 +1,15 @@
+[Inputs]
+clk_in
+RST
+PC_step_en
+WR_OUT_N
+AS_N
+=MDO[31:0]=
+=MAO[31:0]=
+[Outputs]
+step_en
+RESET
+ACK_N
+CLK
+=DO[31:0]=
+[BiDir]

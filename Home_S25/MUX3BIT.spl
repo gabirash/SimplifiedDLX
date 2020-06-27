@@ -1,0 +1,7 @@
+[Inputs]
+sel
+=A0[2:0]=
+=A1[2:0]=
+[Outputs]
+=O[2:0]=
+[BiDir]

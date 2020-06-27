@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/adlx/C2/SOURCE_S25/DLX_ioSimul_DLX_ioSimul_sch_tb_isim_beh.exe" -prj "E:/adlx/C2/SOURCE_S25/DLX_ioSimul_DLX_ioSimul_sch_tb_beh.prj" "work.DLX_ioSimul_DLX_ioSimul_sch_tb" 

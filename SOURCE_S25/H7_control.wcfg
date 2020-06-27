@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/gabon/Desktop/updated/Home_S25/DLXControlTop_DLXControlTop_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="dlxcontroltop_dlxcontroltop_sch_tb" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="36" />
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/step_en" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">step_en</obj_property>
+      <obj_property name="ObjectShortName">step_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/ack_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ack_n</obj_property>
+      <obj_property name="ObjectShortName">ack_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/aeqz" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">aeqz</obj_property>
+      <obj_property name="ObjectShortName">aeqz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/in_init" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">in_init</obj_property>
+      <obj_property name="ObjectShortName">in_init</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/in_halt" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">in_halt</obj_property>
+      <obj_property name="ObjectShortName">in_halt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/wr_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wr_n</obj_property>
+      <obj_property name="ObjectShortName">wr_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/as_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">as_n</obj_property>
+      <obj_property name="ObjectShortName">as_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/stop_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">stop_n</obj_property>
+      <obj_property name="ObjectShortName">stop_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/opcode" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">opcode[5:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/func" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">func[5:0]</obj_property>
+      <obj_property name="ObjectShortName">func[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/dlxstate" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dlxstate[4:0]</obj_property>
+      <obj_property name="ObjectShortName">dlxstate[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/macstate" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">macstate[1:0]</obj_property>
+      <obj_property name="ObjectShortName">macstate[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/mr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mr</obj_property>
+      <obj_property name="ObjectShortName">mr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/mw" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mw</obj_property>
+      <obj_property name="ObjectShortName">mw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/busy" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">busy</obj_property>
+      <obj_property name="ObjectShortName">busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/add" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">add</obj_property>
+      <obj_property name="ObjectShortName">add</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/test" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">test</obj_property>
+      <obj_property name="ObjectShortName">test</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/itype" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">itype</obj_property>
+      <obj_property name="ObjectShortName">itype</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/jlink" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">jlink</obj_property>
+      <obj_property name="ObjectShortName">jlink</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/right" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">right</obj_property>
+      <obj_property name="ObjectShortName">right</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/shift" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">shift</obj_property>
+      <obj_property name="ObjectShortName">shift</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/asel" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">asel</obj_property>
+      <obj_property name="ObjectShortName">asel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/mdrsel" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mdrsel</obj_property>
+      <obj_property name="ObjectShortName">mdrsel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/dintsel" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">dintsel</obj_property>
+      <obj_property name="ObjectShortName">dintsel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/irce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">irce</obj_property>
+      <obj_property name="ObjectShortName">irce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/ace" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ace</obj_property>
+      <obj_property name="ObjectShortName">ace</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/bce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">bce</obj_property>
+      <obj_property name="ObjectShortName">bce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/cce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cce</obj_property>
+      <obj_property name="ObjectShortName">cce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/pcce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pcce</obj_property>
+      <obj_property name="ObjectShortName">pcce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/marce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">marce</obj_property>
+      <obj_property name="ObjectShortName">marce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/mdrce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mdrce</obj_property>
+      <obj_property name="ObjectShortName">mdrce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/gpr_we" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">gpr_we</obj_property>
+      <obj_property name="ObjectShortName">gpr_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/s2sel" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">s2sel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s2sel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dlxcontroltop_dlxcontroltop_sch_tb/s1sel" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">s1sel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s1sel[1:0]</obj_property>
+   </wvobject>
+</wave_config>

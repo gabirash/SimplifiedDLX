@@ -1,0 +1,5 @@
+[Inputs]
+compsing
+[Outputs]
+=compmulti[31:0]=
+[BiDir]

@@ -1,0 +1,4 @@
+vhdtdtfi -lib work REG32CE.vhd -lib work IR_Envi.vhd -prj Home_V14_S25 -o IR_Envi.spl -module IR_Envi -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 IR_Envi.spl C:/Users/gabon/Desktop/Home_S25/IR_Envi.sym 
+vhdtdtfi -lib work REG32CE.vhd -lib work IR_Envi.vhd -prj Home_V14_S25 -o IR_Envi.spl -module IR_Envi -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 IR_Envi.spl C:/ACSL_projects/Home_S25/IR_Envi.sym 

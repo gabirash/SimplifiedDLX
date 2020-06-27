@@ -1,0 +1,5 @@
+[Inputs]
+[Outputs]
+=S22[31:0]=
+=S23[31:0]=
+[BiDir]

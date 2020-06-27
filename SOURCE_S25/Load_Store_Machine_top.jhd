@@ -1,0 +1,5 @@
+MODULE Load_Store_Machine_top
+	SUBMODULE Load_Store_Machine
+		INSTANCE XLXI_2
+	SUBMODULE Control_LS_top
+		INSTANCE XLXI_5

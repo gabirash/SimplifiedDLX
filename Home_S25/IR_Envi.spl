@@ -1,0 +1,10 @@
+[Inputs]
+clk
+IRce
+=D_in[31:0]=
+[Outputs]
+=opcode[5:0]=
+=Badr[4:0]=
+=Cadr[4:0]=
+=imm[15:0]=
+[BiDir]
